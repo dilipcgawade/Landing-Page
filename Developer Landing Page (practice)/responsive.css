@@ -1,0 +1,31 @@
+@media(max-width: 786px){
+    .hero-section{
+        min-height: 50vh;
+    }
+    .text-container{
+        padding: 10px 0;
+        text-align: center;
+    }
+    .large-text{
+        font-size: 32px;
+    }
+    .black-box{
+        font-size: 24px;
+    }
+    .black-box h2 {
+        font-weight: 400;
+        font-size: 32px;
+    }
+    .black-box span{
+        font-size: 50px;
+    }
+    .bottom-section{
+        flex-direction: column;
+    }
+    h1{
+        font-size: 32px;
+    }
+    .contact h2, .about h2{
+        font-size: 32px;
+    }
+}
